@@ -1,0 +1,24 @@
+1.Create a account in Azure devops
+2.Create a organization in Azure devops
+3.Create a multiple organization
+4.Delete the organization.
+5.Create a project inside the organization.
+6.Create a multiple projects in organization.
+7.Delete the project
+8.Create the project and perform below operation
+    1.Enable all Azure devop services
+    2.Disable the services
+9.Create a team in the project
+10.Create team in organization
+11.Add user into a team in the project
+12.Add the user in organization
+13.Delete the user from project and team
+14.Create work item into the project
+15.Create backlog item into the project
+16.Create sprint into the project
+17.Create task in the project
+18.Create epic in the project
+19.Create bug/defect into the project
+20.Create wiki page for the project
+21.Add wizard in the Azure devops and remove/edit it
+22. Integrate the delivery plan with azure portal
